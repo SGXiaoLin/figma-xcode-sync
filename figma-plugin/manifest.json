@@ -1,0 +1,14 @@
+{
+  "name": "Xcode Asset Sync (Dev Mode)",
+  "id": "1636296315360040909",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html",
+  "editorType": ["figma", "dev"],
+  "capabilities": ["inspect"],
+  "documentAccess": "dynamic-page",
+  "networkAccess": {
+    "allowedDomains": ["*"],
+    "reasoning": "Communicates with a local companion macOS app (running on localhost:9876) that writes exported PNG and SVG icon assets directly into the user's Xcode .xcassets catalog. This enables one-click sync from Figma to Xcode without manual export or drag-and-drop."
+  }
+}
