@@ -1,0 +1,127 @@
+{
+  "": {
+    "dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Swifter.d",
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Swifter.o",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/primary.swiftdeps"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/DemoServer.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/DemoServer.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/DemoServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/DemoServer.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/DemoServer.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Errno.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Errno.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Errno~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Errno.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Errno.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Files.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Files.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Files~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Files.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Files.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpParser.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpParser.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpParser.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpParser.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpRequest.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRequest.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRequest~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRequest.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRequest.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpResponse.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpResponse.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpResponse~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpResponse.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpResponse.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpRouter.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRouter.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRouter~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRouter.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpRouter.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpServer.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServer.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServer.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServer.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpServerIO.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServerIO.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServerIO~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServerIO.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/HttpServerIO.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/MimeTypes.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/MimeTypes.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/MimeTypes~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/MimeTypes.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/MimeTypes.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Process.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Process.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Process~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Process.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Process.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Scopes.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Scopes.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Scopes~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Scopes.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Scopes.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket+File.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+File.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+File~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+File.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+File.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket+Server.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+Server.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+Server~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+Server.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket+Server.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/Socket.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+BASE64.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+BASE64.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+BASE64~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+BASE64.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+BASE64.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+File.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+File.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+File~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+File.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+File.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+Misc.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+Misc.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+Misc~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+Misc.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+Misc.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+SHA1.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+SHA1.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+SHA1~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+SHA1.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/String+SHA1.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/WebSockets.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/WebSockets.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/WebSockets~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/WebSockets.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Swifter.build/WebSockets.dia"
+  }
+}

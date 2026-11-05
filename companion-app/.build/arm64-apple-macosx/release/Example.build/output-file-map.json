@@ -1,0 +1,13 @@
+{
+  "": {
+    "dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/Example.d",
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/Example.o",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/primary.swiftdeps"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/Example/main.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/main.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/main.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/Example.build/main.dia"
+  }
+}

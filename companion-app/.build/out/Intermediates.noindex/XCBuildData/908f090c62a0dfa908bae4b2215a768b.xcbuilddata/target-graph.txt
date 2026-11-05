@@ -1,0 +1,8 @@
+Target dependency graph (4 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'XcodeAssetSync-product' in project 'XcodeAssetSync'
+Target 'XcodeAssetSync-product' in project 'XcodeAssetSync'
+➜ Explicit dependency on target 'Swifter-product' in project 'Swifter'
+Target 'Swifter-product' in project 'Swifter'
+➜ Explicit dependency on target 'Swifter' in project 'Swifter'
+Target 'Swifter' in project 'Swifter' (no dependencies)

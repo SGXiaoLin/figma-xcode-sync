@@ -1,0 +1,111 @@
+{
+  "" : {
+    "const-values" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.swiftconstvalues",
+    "dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.d",
+    "diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.dia",
+    "emit-module-dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary-emit-module.dia",
+    "pch" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.swiftdeps"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/DemoServer.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/DemoServer.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/DemoServer.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/DemoServer.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Errno.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Errno.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Errno.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Errno.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Files.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Files.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Files.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Files.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpParser.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpParser.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpParser.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpParser.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpRequest.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRequest.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRequest.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRequest.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpResponse.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpResponse.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpResponse.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpResponse.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpRouter.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRouter.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRouter.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpRouter.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpServer.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServer.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServer.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServer.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/HttpServerIO.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServerIO.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServerIO.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/HttpServerIO.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/MimeTypes.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/MimeTypes.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/MimeTypes.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/MimeTypes.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Process.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Process.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Process.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Process.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Scopes.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Scopes.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Scopes.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Scopes.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket+File.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+File.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+File.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+File.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket+Server.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+Server.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+Server.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket+Server.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/Socket.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Socket.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+BASE64.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+BASE64.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+BASE64.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+BASE64.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+File.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+File.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+File.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+File.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+Misc.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+Misc.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+Misc.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+Misc.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/String+SHA1.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+SHA1.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+SHA1.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/String+SHA1.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/WebSockets.swift" : {
+    "index-unit-output-path" : "/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/WebSockets.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/WebSockets.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/WebSockets.o"
+  }
+}

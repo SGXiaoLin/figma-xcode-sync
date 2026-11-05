@@ -1,0 +1,11 @@
+{
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Config/ProjectConfig.swift" : {
+    "abi-baseline-json" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync.abi.json",
+    "const-values" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.swiftconstvalues",
+    "dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.d",
+    "diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.dia",
+    "swiftdoc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync.swiftdoc",
+    "swiftmodule" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync.swiftmodule",
+    "swiftsourceinfo" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync.swiftsourceinfo"
+  }
+}

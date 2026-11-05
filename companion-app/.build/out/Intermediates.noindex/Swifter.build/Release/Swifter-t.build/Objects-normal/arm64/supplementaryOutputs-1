@@ -1,0 +1,12 @@
+{
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/checkouts/swifter/XCode/Sources/DemoServer.swift" : {
+    "abi-baseline-json" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter.abi.json",
+    "const-values" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.swiftconstvalues",
+    "dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.d",
+    "diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-primary.dia",
+    "objc-header" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter-Swift.h",
+    "swiftdoc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter.swiftdoc",
+    "swiftmodule" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter.swiftmodule",
+    "swiftsourceinfo" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/Swifter.build/Release/Swifter-t.build/Objects-normal/arm64/Swifter.swiftsourceinfo"
+  }
+}

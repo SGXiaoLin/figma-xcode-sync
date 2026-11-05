@@ -1,0 +1,46 @@
+{
+  "" : {
+    "const-values" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.swiftconstvalues",
+    "dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.d",
+    "diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.dia",
+    "emit-module-dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary-emit-module.dia",
+    "pch" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeAssetSync-primary.swiftdeps"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Config/ProjectConfig.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/ProjectConfig.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/ProjectConfig.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/ProjectConfig.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/HTTP/AssetHTTPServer.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetHTTPServer.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetHTTPServer.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetHTTPServer.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/HTTP/Models.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/Models.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/Models.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/Models.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Installer/AppInstaller.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AppInstaller.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AppInstaller.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AppInstaller.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Writer/AssetWriter.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetWriter.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetWriter.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/AssetWriter.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Xcode/XcodeActiveAssetDetector.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeActiveAssetDetector.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeActiveAssetDetector.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/XcodeActiveAssetDetector.o"
+  },
+  "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/main.swift" : {
+    "index-unit-output-path" : "/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/liangnao/Documents/figma-xcode-sync-main/companion-app/.build/out/Intermediates.noindex/XcodeAssetSync.build/Release/XcodeAssetSync-p.build/Objects-normal/arm64/main.o"
+  }
+}

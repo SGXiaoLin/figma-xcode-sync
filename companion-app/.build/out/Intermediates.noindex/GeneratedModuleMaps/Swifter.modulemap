@@ -1,0 +1,4 @@
+module Swifter {
+header "Swifter-Swift.h"
+export *
+}

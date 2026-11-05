@@ -1,0 +1,49 @@
+{
+  "": {
+    "dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeAssetSync.d",
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeAssetSync.o",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/primary.swiftdeps"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Config/ProjectConfig.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/ProjectConfig.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/ProjectConfig~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/ProjectConfig.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/ProjectConfig.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/HTTP/AssetHTTPServer.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetHTTPServer.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetHTTPServer~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetHTTPServer.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetHTTPServer.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/HTTP/Models.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/Models.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/Models~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/Models.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/Models.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Installer/AppInstaller.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AppInstaller.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AppInstaller~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AppInstaller.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AppInstaller.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Writer/AssetWriter.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetWriter.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetWriter~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetWriter.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/AssetWriter.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/Xcode/XcodeActiveAssetDetector.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeActiveAssetDetector.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeActiveAssetDetector~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeActiveAssetDetector.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/XcodeActiveAssetDetector.dia"
+  },
+  "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/Sources/XcodeAssetSync/main.swift": {
+    "object": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/main.swift.o",
+    "swiftmodule": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/main.swiftdeps",
+    "diagnostics": "/Users/a07/Downloads/figma-xcode-sync-main/companion-app/.build/arm64-apple-macosx/release/XcodeAssetSync.build/main.dia"
+  }
+}
